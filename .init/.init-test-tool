@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/course-organizer-0b75d1d0/course_planner_backend"
+}
